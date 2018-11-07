@@ -1,5 +1,7 @@
 # RPRD
+
 [Website](#) - [https://www.facebook.com/rprdstudio/](#) - [LinkedIn](#) - [Twitter](#)  
+
 ![Logo de l' entreprise](NoLogo.png)
 ## Pitch
 **4 mots**: Hey - Mon - Ami - Patates
@@ -17,6 +19,7 @@
 ## Custumer Segment
 ### Client cible
 - Description les joueurs de jeu de rythme hard try
+
 - Pourquoi ?
 
 Client cible (3 point)
