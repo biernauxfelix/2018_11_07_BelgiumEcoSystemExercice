@@ -4,13 +4,10 @@
 ## Pitch
 **4 mots**: 
 **Phrase**: 
-## Founder(s)
-- [?]() ()
-
-## Lead Developer(s)
-## Company Info
- - ?
- - ?
+## Personnes
+- [Peter Maasen]() (Lead devloper)
+- [David Prinsmel]() (Creative director)
+- [Jeroen Janssen]() (Business development)
 
 ## Customer Segment
 ### Client cible
