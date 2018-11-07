@@ -1,0 +1,54 @@
+# Fishing Cactus
+[Website](#http://www.fishingcactus.com/) - [Facebook](#) - [LinkedIn](#) - [Twitter](#)  
+![Logo de l' entreprise](https://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.fishingcactus.com%2Fimg%2Fhero-logo.svg&imgrefurl=http%3A%2F%2Fwww.fishingcactus.com%2F&docid=uSvtj3c1yyvpuM&tbnid=rjdX4cEW09zqHM%3A&vet=10ahUKEwjVyIiT8sHeAhWGKVAKHWihBTEQMwg-KAAwAA..i&w=800&h=483&safe=off&client=firefox-b-ab&bih=944&biw=1920&q=fishing%20cactus&ved=0ahUKEwjVyIiT8sHeAhWGKVAKHWihBTEQMwg-KAAwAA&iact=mrc&uact=8)
+## Pitch
+**4 mots**: Hey - Mon - Ami - Patates
+**Phrase**: ...
+
+## Founder(s)
+- [BRUNO Urbain](#LinkedIn) (Buisness)
+- [RAMSES LADLANI](#LinkedIn) (Buisness)
+- [MAXIME ROLLET](#LinkedIn) (Communication)
+- ...
+## Lead Developer(s)
+- [MAXIME ROLLET](#LinkedIn) (Senior)
+- [Prénom NOM](#LinkedIn) (Medior)
+- ...
+## Company Info
+ - 0-5 employés
+ - 0-2 dévelopeurs 
+
+## Custumer Segment
+### Client cible
+- Description
+- Pourquoi ?
+
+Client cible (3 point)
+
+5 points: Tout les informations ont été trouvées
+0-5 points: Vous pensez pouvoir travail dans l'entreprise et savez me justifier pourquoi. (0-5 en fonction de la réponse)
+
+# Hellion Cat
+[Website](#https://hellioncat.com/fr/) - [Facebook](#) - [LinkedIn](#) - [Twitter](#)  
+![Logo de l' entreprise](NoLogo.png)
+## Pitch
+**4 mots**: Hey - Mon - Ami - Patates
+**Phrase**: ...
+
+## Founder(s)
+- [Ludovic Mahieu](#LinkedIn) (Buisness)
+- [Prénom NOM](#LinkedIn) (Communication)
+- ...
+## Lead Developer(s)
+- [Jérémy Leclef](#LinkedIn) (Senior)
+- [Prénom NOM](#LinkedIn) (Medior)
+- ...
+## Company Info
+ - 0-5 employés
+ - 0-2 dévelopeurs 
+
+## Custumer Segment
+### Client cible
+- Description
+- Pourquoi ?
+
