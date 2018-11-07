@@ -1,25 +1,22 @@
 # RPRD
-[Website](#) - [Facebook](#) - [LinkedIn](#) - [Twitter](#)  
+[Website](#) - [https://www.facebook.com/rprdstudio/](#) - [LinkedIn](#) - [Twitter](#)  
 ![Logo de l' entreprise](NoLogo.png)
 ## Pitch
 **4 mots**: Hey - Mon - Ami - Patates
 **Phrase**: ...
 
-## Founder(s)
-- [Prénom NOM](#LinkedIn) (Buisness)
-- [Prénom NOM](#LinkedIn) (Communication)
-- ...
-## Lead Developer(s)
-- [Prénom NOM](#LinkedIn) (Senior)
-- [Prénom NOM](#LinkedIn) (Medior)
-- ...
+## Founder(s) et lead devloppers
+- [Basile Accarain ](#https://www.linkedin.com/in/basile-accarain-b136b614b/) (Buisness)
+- [Renaud]() (Communication)
+- [Raphael kuban](https://www.linkedin.com/in/raphael-kuban-74b50514a/)
+
 ## Company Info
- - 0-5 employés
- - 0-2 dévelopeurs 
+ - 3 employés
+ - 3 dévelopeurs 
 
 ## Custumer Segment
 ### Client cible
-- Description
+- Description les joueurs de jeu de rythme hard try
 - Pourquoi ?
 
 Client cible (3 point)
